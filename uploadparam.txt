@@ -1,0 +1,7 @@
+cd C:\Users\SIGNEAR\Desktop\epartmysqli
+
+cf api https://api.eu-gb.bluemix.net
+
+cf login -u bluemix@ozgurduyar.com.tr -o bluemix@ozgurduyar.com.tr -s space_name
+
+cf push observerwebapi
