@@ -71,7 +71,7 @@ die();
                         <!-- BEGIN QUICK SIDEBAR TOGGLER -->
                         <!-- DOC: Apply "dropdown-dark" class after below "dropdown-extended" to change the dropdown styte -->
                         <li class="dropdown dropdown-quick-sidebar-toggler">
-                            <a href="javascript:;" class="dropdown-toggle">
+                            <a href="logout.php" class="dropdown-toggle">
                                 <i class="icon-logout"></i>
                             </a>
                         </li>
@@ -142,6 +142,11 @@ die();
                                 <li class="nav-item  ">
                                     <a href="gozlemduzenle.php" class="nav-link ">
                                         <span class="title">Gözlemleri Düzenle</span>
+                                    </a>
+                                </li>
+                                <li class="nav-item  ">
+                                    <a href="http://localhost/oylamaDeneme/admin.php" class="nav-link ">
+                                        <span class="title">Oylama Hazırla</span>
                                     </a>
                                 </li>
 								</ul>

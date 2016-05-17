@@ -1,4 +1,4 @@
-/*
+﻿/*
 Navicat MySQL Data Transfer
 
 Source Server         : cleardb- ad_976319092ebfd52
@@ -11,6 +11,7 @@ Target Server Version : 50545
 File Encoding         : 65001
 
 Date: 2016-01-13 10:43:02
+2016-04-24 tarihinde yukarıdaki bilgiler değişti.
 */
 
 SET FOREIGN_KEY_CHECKS=0;
